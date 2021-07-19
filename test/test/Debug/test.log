@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\serke\source\repos\test\test\main.cpp(63,19): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\serke\source\repos\test\test\main.cpp(63,43): warning C4305: '初期化中': 'int' から 'char' へ切り詰めます。
+C:\Users\serke\source\repos\test\test\main.cpp(63,19): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\serke\source\repos\test\test\main.cpp(63,25): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\serke\source\repos\test\test\main.cpp(63,25): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\serke\source\repos\test\test\main.cpp(63,31): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\serke\source\repos\test\test\main.cpp(63,31): warning C4309: '初期化中': 定数値が切り捨てられました。
+C:\Users\serke\source\repos\test\test\main.cpp(63,37): warning C4838: 'int' から 'char' への変換には縮小変換が必要です
+C:\Users\serke\source\repos\test\test\main.cpp(63,37): warning C4309: '初期化中': 定数値が切り捨てられました。
+  test.vcxproj -> C:\Users\serke\source\repos\test\Debug\test.exe
